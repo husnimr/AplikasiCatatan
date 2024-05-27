@@ -6,5 +6,4 @@
 3. Instal dependensi dengan : `npm install`
 4. Jalankan aplikasi dengan : `npm run dev`
 
-## Demo
 
